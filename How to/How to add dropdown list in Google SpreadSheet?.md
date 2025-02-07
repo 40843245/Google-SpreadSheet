@@ -32,5 +32,5 @@ See
 + [How to set multiple cell as dropdown list in Google SpreadSheet? (way 3)](https://youtu.be/fhtZwRGhxC4)
  
 ## 2th way (coding)
-
+See [this article](https://github.com/40843245/AppScript/blob/main/code/How%20to/How%20to%20add%20dropdown%20list%20in%20Google%20SpreadSheet%3F.md)
 
