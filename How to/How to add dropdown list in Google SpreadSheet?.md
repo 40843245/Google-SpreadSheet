@@ -4,7 +4,6 @@ There are many ways to do that, the core concept is to apply a rule with `Citeri
 To do that, you can follow one of these ways.
 
 ## 1th way (manually)
-### 1th way
 1. select range in Google SpreadSheet. 
 2. click right mouse and select `DropDown`.
 
@@ -40,7 +39,6 @@ To do that, you can follow one of these ways.
 
 <img width="246" alt="image" src="https://github.com/user-attachments/assets/558463ca-9302-45f9-b339-68b5f6f891f7" />
 
-7. apply all (including value, format) from one cell to other cells.
 
 > [!NOTE]
 > If you are familiar with Google SpreadSheet or Excel,
