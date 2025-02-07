@@ -3,6 +3,9 @@ There are many ways to do that, the core concept is to apply a rule with `Citeri
 
 To do that, you can follow one of these ways.
 
+> [!WARNING]
+> In 1th way, you can't find a style such that it looks like the result in 2th way (by default settings).
+
 ## 1th way (manually)
 1. select range in Google SpreadSheet. 
 2. click right mouse and select `DropDown`.
@@ -34,6 +37,9 @@ To do that, you can follow one of these ways.
 5. set options
 
 <img width="253" alt="image" src="https://github.com/user-attachments/assets/c45ed260-53a8-4b84-b937-005033807215" />
+
+> [!NOTE]
+> You can set the style in these options.
 
 6. apply rule by clicking `Done` green button.
 
