@@ -6,7 +6,7 @@ To do that, you can follow one of these ways.
 ## 1th way (manually)
 ### 1th way
 1. select range in Google SpreadSheet. 
-2. click right mouse and select dropdown.
+2. click right mouse and select `DropDown`.
 
 <img width="304" alt="image" src="https://github.com/user-attachments/assets/fff82f8a-a1e7-463f-a7ee-892e9b5f190a" />
 
@@ -25,10 +25,22 @@ To do that, you can follow one of these ways.
 >
 > The annotation in Google SpreadSheet is same as that in Excel.
 
-5. set `Citeria` is `DropDown`.
-6. set options 
-7. apply rule by clicking `Done` green button.
-8. apply all (including value, format) from one cell to other cells.
+4. set `Citeria` is `DropDown`.
+
+<img width="223" alt="image" src="https://github.com/user-attachments/assets/88435932-c447-4e0f-848e-ef8ee57f61d1" />
+
+> [!TIP]
+> When one follows step 2, `Citeria` is set to `DropDown` by default.
+
+5. set options
+
+<img width="253" alt="image" src="https://github.com/user-attachments/assets/c45ed260-53a8-4b84-b937-005033807215" />
+
+6. apply rule by clicking `Done` green button.
+
+<img width="246" alt="image" src="https://github.com/user-attachments/assets/558463ca-9302-45f9-b339-68b5f6f891f7" />
+
+7. apply all (including value, format) from one cell to other cells.
 
 > [!NOTE]
 > If you are familiar with Google SpreadSheet or Excel,
