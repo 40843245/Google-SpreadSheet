@@ -29,7 +29,8 @@ See
 
 + [How to set multiple cell as dropdown list in Google SpreadSheet? (way 1)](https://youtu.be/4JWuysj8dIU)
 + [How to set multiple cell as dropdown list in Google SpreadSheet? (way 2)](https://youtu.be/_JHkzfNxras)
-+ [How to set multiple cell as dropdown list in Google SpreadSheet? (way 2)](https://youtu.be/fhtZwRGhxC4)
++ [How to set multiple cell as dropdown list in Google SpreadSheet? (way 3)](https://youtu.be/fhtZwRGhxC4)
+ 
 ## 2th way (coding)
 
 
